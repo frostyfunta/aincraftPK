@@ -1,0 +1,4 @@
+name: AincraftPK
+version: '${project.version}'
+main: io.github.frostyfunta.aincraftpk.AincraftPK
+api-version: 1.18
